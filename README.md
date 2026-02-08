@@ -31,7 +31,7 @@
 - [ ] [LC 1229 · Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/) (🔒 Premium)
 
 ### 2. BFS (广度优先搜索)
-- [ ] [LC 102 · Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [x] [LC 102 · Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [ ] [LC 111 · Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [ ] [LC 127 · Word Ladder](https://leetcode.com/problems/word-ladder/)
 - [ ] [LC 207 · Course Schedule](https://leetcode.com/problems/course-schedule/)
