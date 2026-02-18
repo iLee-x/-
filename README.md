@@ -34,7 +34,7 @@
 - [x] [LC 102 · Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [x] [LC 111 · Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [ ] [LC 127 · Word Ladder](https://leetcode.com/problems/word-ladder/)
-- [ ] [LC 207 · Course Schedule](https://leetcode.com/problems/course-schedule/)
+- [x] [LC 207 · Course Schedule](https://leetcode.com/problems/course-schedule/)
 - [ ] [LC 210 · Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 - [ ] [LC 490 · The Maze](https://leetcode.com/problems/the-maze/) (🔒 Premium)
 - [ ] [LC 505 · The Maze II](https://leetcode.com/problems/the-maze-ii/) (🔒 Premium)
