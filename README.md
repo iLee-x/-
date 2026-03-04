@@ -19,7 +19,7 @@
 ---
 
 ### 1. Scanline (扫描线)
-- [ ] [Lint 391 · Number of Airplanes in the Sky](https://www.lintcode.com/problem/391/)
+- [x] [Lint 391 · Number of Airplanes in the Sky](https://www.lintcode.com/problem/391/)
 - [ ] [LC 252 · Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) (🔒 Premium)
 - [ ] [LC 253 · Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) (🔒 Premium)
 - [ ] [LC 56 · Merge Intervals](https://leetcode.com/problems/merge-intervals/)
