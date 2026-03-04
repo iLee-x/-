@@ -22,7 +22,7 @@
 - [x] [Lint 391 · Number of Airplanes in the Sky](https://www.lintcode.com/problem/391/)
 - [ ] [LC 252 · Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) (🔒 Premium)
 - [ ] [LC 253 · Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) (🔒 Premium)
-- [ ] [LC 56 · Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [x] [LC 56 · Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [ ] [LC 57 · Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] [LC 1272 · Remove Interval](https://leetcode.com/problems/remove-interval/) (🔒 Premium)
 - [ ] [LC 435 · Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
