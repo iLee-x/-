@@ -35,16 +35,16 @@
 - [x] [LC 111 · Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [ ] [LC 127 · Word Ladder](https://leetcode.com/problems/word-ladder/)
 - [x] [LC 207 · Course Schedule](https://leetcode.com/problems/course-schedule/)
-- [ ] [LC 210 · Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
+- [x] [LC 210 · Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)
 - [ ] [LC 490 · The Maze](https://leetcode.com/problems/the-maze/) (🔒 Premium)
 - [ ] [LC 505 · The Maze II](https://leetcode.com/problems/the-maze-ii/) (🔒 Premium)
 
 ### 3. DFS - Basic & Advanced
 **Basic DFS**
 - [x] [LC 78 · Subsets](https://leetcode.com/problems/subsets/)
-- [ ] [LC 90 · Subsets II](https://leetcode.com/problems/subsets-ii/)
-- [ ] [LC 46 · Permutations](https://leetcode.com/problems/permutations/)
-- [ ] [LC 47 · Permutations II](https://leetcode.com/problems/permutations-ii/)
+- [x] [LC 90 · Subsets II](https://leetcode.com/problems/subsets-ii/)
+- [x] [LC 46 · Permutations](https://leetcode.com/problems/permutations/)
+- [x] [LC 47 · Permutations II](https://leetcode.com/problems/permutations-ii/)
 - [ ] [LC 77 · Combinations](https://leetcode.com/problems/combinations/)
 - [ ] [LC 37 · Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)
 - [ ] [LC 51 · N-Queens](https://leetcode.com/problems/n-queens/)
