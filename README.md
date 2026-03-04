@@ -41,7 +41,7 @@
 
 ### 3. DFS - Basic & Advanced
 **Basic DFS**
-- [ ] [LC 78 · Subsets](https://leetcode.com/problems/subsets/)
+- [x] [LC 78 · Subsets](https://leetcode.com/problems/subsets/)
 - [ ] [LC 90 · Subsets II](https://leetcode.com/problems/subsets-ii/)
 - [ ] [LC 46 · Permutations](https://leetcode.com/problems/permutations/)
 - [ ] [LC 47 · Permutations II](https://leetcode.com/problems/permutations-ii/)
