@@ -57,14 +57,14 @@
 ### 4. Binary Search (二分搜索)
 - [ ] [LC 704 · Binary Search](https://leetcode.com/problems/binary-search/)
 - [ ] [LC 4 · Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [ ] [LC 278 · First Bad Version](https://leetcode.com/problems/first-bad-version/)
+- [x] [LC 278 · First Bad Version](https://leetcode.com/problems/first-bad-version/)
 - [ ] [LC 410 · Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 
 ### 5. Divide & Conquer (分治法)
 - [ ] [LC 23 · Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [LC 215 · Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-- [ ] [LC 169 · Majority Element](https://leetcode.com/problems/majority-element/)
-- [ ] [LC 50 · Pow(x, n)](https://leetcode.com/problems/powx-n/)
+- [x] [LC 169 · Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [LC 50 · Pow(x, n)](https://leetcode.com/problems/powx-n/)
 - [ ] [LCR 170 · Count Inversion Pairs](https://leetcode.cn/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) (LeetCode CN)
 - [ ] [Classic: Closest Pair of Points](https://www.geeksforgeeks.org/closest-pair-of-points-using-divide-and-conquer-algorithm/)
 
