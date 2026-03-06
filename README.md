@@ -69,8 +69,8 @@
 - [ ] [Classic: Closest Pair of Points](https://www.geeksforgeeks.org/closest-pair-of-points-using-divide-and-conquer-algorithm/)
 
 ### 6. Monotonic Stack (单调栈)
-- [ ] [LC 496 · Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
-- [ ] [LC 503 · Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
+- [x] [LC 496 · Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+- [x] [LC 503 · Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)
 - [ ] [LC 1019 · Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)
 - [ ] [LC 739 · Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 - [ ] [LC 316 · Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
