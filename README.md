@@ -80,11 +80,11 @@
 - [ ] [LC 84 · Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ### 7. Monotonic Queue (单调队列)
-- [ ] [LC 239 · Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
-- [ ] [LC 862 · Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
-- [ ] [LC 1425 · Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
-- [ ] [LC 1438 · Longest Continuous Subarray With Absolute Diff <= Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
-- [ ] [LC 1696 · Jump Game VI](https://leetcode.com/problems/jump-game-vi/)
+- [x] [LC 239 · Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
+- [x] [LC 862 · Shortest Subarray with Sum at Least K](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/)
+- [x] [LC 1425 · Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum/)
+- [x] [LC 1438 · Longest Continuous Subarray With Absolute Diff <= Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)
+- [x] [LC 1696 · Jump Game VI](https://leetcode.com/problems/jump-game-vi/)
 
 ### 8. Sliding Window (滑动窗口)
 - [ ] [LC 3 · Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
