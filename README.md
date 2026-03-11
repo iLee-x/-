@@ -95,10 +95,10 @@
 - [x] [LC 209 · Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [ ] [LC 76 · Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [LC 992 · Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)
-- [ ] [LC 1248 · Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
+- [x] [LC 1248 · Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)
 
 ### 9. Prefix Sum (前缀和)
-- [ ] [LC 560 · Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+- [x] [LC 560 · Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 - [ ] [LC 974 · Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 - [ ] [LC 523 · Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
 - [ ] [LC 525 · Contiguous Array](https://leetcode.com/problems/contiguous-array/)
