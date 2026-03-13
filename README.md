@@ -99,8 +99,8 @@
 
 ### 9. Prefix Sum (前缀和)
 - [x] [LC 560 · Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
-- [ ] [LC 974 · Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
-- [ ] [LC 523 · Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
+- [x] [LC 974 · Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+- [x] [LC 523 · Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)
 - [ ] [LC 525 · Contiguous Array](https://leetcode.com/problems/contiguous-array/)
 - [ ] [LC 370 · Range Addition](https://leetcode.com/problems/range-addition/) (🔒 Premium)
 - [ ] [LC 304 · Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
