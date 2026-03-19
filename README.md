@@ -125,13 +125,13 @@
 - [x] [LC 22 · Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - [x] [LC 215 · Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [ ] [LC 472 · Concatenated Words](https://leetcode.com/problems/concatenated-words/)
-- [ ] [LC 91 · Decode Ways](https://leetcode.com/problems/decode-ways/)
-- [ ] [LC 50 · Pow(x, n)](https://leetcode.com/problems/powx-n/)
-- [ ] [LC 69 · Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+- [x] [LC 91 · Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [x] [LC 50 · Pow(x, n)](https://leetcode.com/problems/powx-n/)
+- [x] [LC 69 · Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 
 ### 12. Greedy (贪心)
 - [ ] [LC 1710 · Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
-- [ ] [LC 11 · Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [LC 11 · Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [ ] [LC 1328 · Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
 - [ ] [LC 55 · Jump Game](https://leetcode.com/problems/jump-game/)
 - [ ] [LC 134 · Gas Station](https://leetcode.com/problems/gas-station/)
@@ -143,8 +143,8 @@
 **Sorting Problems:**
 - [ ] [LC 215 · Kth Largest Element (QuickSelect)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [ ] [LC 148 · Sort List](https://leetcode.com/problems/sort-list/)
-- [ ] [LC 75 · Sort Colors](https://leetcode.com/problems/sort-colors/)
-- [ ] [LC 451 · Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
+- [x] [LC 75 · Sort Colors](https://leetcode.com/problems/sort-colors/)
+- [x] [LC 451 · Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [ ] [LC 164 · Maximum Gap](https://leetcode.com/problems/maximum-gap/)
 
 ### 14. Math (Quick Power, GCD/LCM)
