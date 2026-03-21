@@ -132,8 +132,8 @@
 ### 12. Greedy (贪心)
 - [x] [LC 1710 · Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)
 - [x] [LC 11 · Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
-- [ ] [LC 1328 · Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
-- [ ] [LC 55 · Jump Game](https://leetcode.com/problems/jump-game/)
+- [x] [LC 1328 · Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
+- [x] [LC 55 · Jump Game](https://leetcode.com/problems/jump-game/)
 - [ ] [LC 134 · Gas Station](https://leetcode.com/problems/gas-station/)
 
 ### 13. Sorting Specials (排序十讲)
