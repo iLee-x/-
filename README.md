@@ -134,18 +134,18 @@
 - [x] [LC 11 · Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [x] [LC 1328 · Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)
 - [x] [LC 55 · Jump Game](https://leetcode.com/problems/jump-game/)
-- [ ] [LC 134 · Gas Station](https://leetcode.com/problems/gas-station/)
+- [x] [LC 134 · Gas Station](https://leetcode.com/problems/gas-station/)
 
 ### 13. Sorting Specials (排序十讲)
 **Theoretical Background:**
 - *Bubble, Insertion, Selection, Shell, Quick, Merge, Heap, Counting, Bucket, Radix, Pancake*
 
 **Sorting Problems:**
-- [ ] [LC 215 · Kth Largest Element (QuickSelect)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [x] [LC 215 · Kth Largest Element (QuickSelect)](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 - [ ] [LC 148 · Sort List](https://leetcode.com/problems/sort-list/)
 - [x] [LC 75 · Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [x] [LC 451 · Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
-- [ ] [LC 164 · Maximum Gap](https://leetcode.com/problems/maximum-gap/)
+- [x] [LC 164 · Maximum Gap](https://leetcode.com/problems/maximum-gap/)
 
 ### 14. Math (Quick Power, GCD/LCM)
 - [ ] [LC 50 · Pow(x, n)](https://leetcode.com/problems/powx-n/)
